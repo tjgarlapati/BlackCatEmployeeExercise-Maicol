@@ -17,5 +17,7 @@ namespace Employees.DataAccessLayer
         }
 
         //---------------Build your Data Access Methods To Get Data From Database----------------------
+        //---------------Use Entity Framework or ADO.Net based on your comfort levels------------------
+        //---------------If you decide to use ADO.Net, you could use helper methods setup in SqlHelper.cs----------
     }
 }
